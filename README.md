@@ -1,5 +1,4 @@
-# PyCon 2013 Scikit-learn Tutorial
-
+# PyCon 2014 Scikit-learn Tutorial
 
 *Instructor: Jake VanderPlas*
 
@@ -8,7 +7,7 @@
 - github: [jakevdp](http://github.com/jakevdp)
 
 This repository will contain files and other info associated with my PyCon
-2013 scikit-learn tutorial.
+2014 scikit-learn tutorial.
 
 ## Installation Notes
 This tutorial will require recent installations of *numpy*, *scipy*,
