@@ -49,8 +49,9 @@ launch page in your web browser.
 
 - [00_Preliminaries.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/jakevdp/sklearn_pycon2014/master/notebooks/00_Preliminaries.ipynb)
 - [01_basics.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/jakevdp/sklearn_pycon2014/master/notebooks/01_basics.ipynb)
-- [02_intro.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/jakevdp/sklearn_pycon2014/master/notebooks/02_intro.ipynb)
-- [03_validation.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/jakevdp/sklearn_pycon2014/master/notebooks/03_validation.ipynb)
+- [02_data_representation.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/jakevdp/sklearn_pycon2014/master/notebooks/02_data_representation.ipynb)
+- [03_basic_principles.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/jakevdp/sklearn_pycon2014/master/notebooks/03_basic_principles.ipynb)
+- [04_validation.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/jakevdp/sklearn_pycon2014/master/notebooks/04_validation.ipynb)
 
 Note that some of the code in these notebooks will not work outside the
 directory structure of this tutorial, so it is important to clone the full
