@@ -37,3 +37,6 @@ nosetests.xml
 
 # emacs
 *~
+
+# ipython
+.ipynb_checkpoints
