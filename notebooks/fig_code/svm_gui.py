@@ -178,7 +178,6 @@ class View(object):
             self.shift_down = False
 
     def onclick(self, event):
-        print(event.button)
         if event.xdata and event.ydata:
             if self.shift_down or event.button == 3:
                 self.controller.add_example(event.xdata, event.ydata, -1)
