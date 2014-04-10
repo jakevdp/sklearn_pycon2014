@@ -23,7 +23,7 @@ or 2.7 for this tutorial.
 
 For users who do not yet have these  packages installed, a relatively
 painless way to install all the requirements is to use a package such as
-[Anaconda CE](http://store.continuum.io/ "Anaconda CE"), which can be
+[Anaconda](http://www.continuum.io/downloads "Anaconda"), which can be
 downloaded and installed for free.
 
 ## Downloading the Tutorial Materials
