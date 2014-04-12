@@ -9,6 +9,9 @@
 This repository will contain files and other info associated with my PyCon
 2014 scikit-learn tutorial.
 
+## Video
+The video is available on PyVideo: [Exploring Machine Learning with Scikit-Learn](http://pyvideo.org/video/2561/exploring-machine-learning-with-scikit-learn)
+
 ## Installation Notes
 This tutorial will require recent installations of *numpy*, *scipy*,
 *matplotlib*, *scikit-learn*, and *ipython* with ipython notebook.
